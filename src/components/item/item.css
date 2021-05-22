@@ -1,0 +1,7 @@
+.card-img img{
+    display: block;
+    width: 100%;
+}
+.card-img h4{
+    margin-top: 15px;
+}
